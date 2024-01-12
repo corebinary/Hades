@@ -1,6 +1,10 @@
 # Hades
 Land based exploration vehicle
 
+
+### Pix Mini Flight Controller
+ - GPS, Compass and PDU 
+
 ### H-Bridge CTRL
 PWM adapter for Pix to H-Bridge control of the brushed motor. 
 The problem this software resolves is that the H-Bridge expects PWM on one of two inputs: forward IN and backward IN.
